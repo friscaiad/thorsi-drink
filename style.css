@@ -1,0 +1,68 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    background: transparent;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 50px;
+    background-color: green;
+}
+
+/* ini adalah style jumbotron*/
+.jumbotron {
+	background-image: url(img/latardaun.jpg);
+	background-size: cover;
+	height: 700px;
+	text-align: center;
+	color: white;
+	margin-top: 0;
+}
+
+.jumbotron .display-4{
+	margin-top: 150px;
+	border-color: black;
+}
+.jumbotron hr{
+	border-color: green;
+	width: 500px;
+	border-width: 3px;
+}
+.jumbotron p{ 
+	font-size: 25px;
+}
+.jumbotron .btn{
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 10px;
+
+}
+
+/* ini adalah style slider*/
+/*.corousel-item{
+	height: 100px;
+}
+.corousel-item img{
+	margin-top: -120px;
+}
+.corousel-item hr{
+	border-color: green;
+	width: 50px;
+	border-width: 3px;
+}
+.corousel-item p{ 
+	font-size: 25px;
+}
+.corousel-item .btn{
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 10px;
+*/
+
+.footer {
+    padding: 30px 0;
+    background-color: green;
+    color: #fff;
+    text-align: center;
+}
